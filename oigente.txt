@@ -6,3 +6,5 @@ Qual é sua idade?
 19 anos
 Qual a sua instituição?
 UNIR
+Qual seu curso?
+Engenharia Elétrica
