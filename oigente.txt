@@ -1,1 +1,6 @@
 Olá, gente
+Meu nome é Ana Lívia Lobo.
+Vamos aprender os fundamenos do git? 
+Simm
+Qual é sua idade?
+19 anos
